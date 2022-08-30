@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CodekataPrograms.iml" filepath="$PROJECT_DIR$/.idea/CodekataPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Module_2-Python_Advanced/.idea/Module-2_Python_Advanced.iml" filepath="$PROJECT_DIR$/../Module_2-Python_Advanced/.idea/Module-2_Python_Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/Module_1-Python_Basics.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/Module_1-Python_Basics.iml" />
     </modules>
   </component>
 </project>
