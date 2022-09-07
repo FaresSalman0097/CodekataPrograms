@@ -1,6 +1,9 @@
 def printEvenNos():
     N = int(input("Enter the value of N : " ))
-    for i in range(1,N+1):
-        if (i%2==0):
-            print(i)
+    if (N%2==0):
+        print("The given number is even")
+
+    else:
+        print("The given number is odd")
+
 printEvenNos()
